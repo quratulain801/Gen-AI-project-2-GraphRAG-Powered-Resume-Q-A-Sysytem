@@ -29,7 +29,7 @@ Supports semantic search and structured queries.
 
 Clone repo
 
-git clone https://github.com/your-username/graphrag-resume-qa.git
+git clone https://github.com/quratulain801/graphrag-resume-qa.git
 cd graphrag-resume-qa
 
 
